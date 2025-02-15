@@ -43,6 +43,7 @@
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
@@ -72,7 +73,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-six-indol.vercel.app?user=Brahim-gz&theme=react&border_radius=10&count_private=true" alt="GitHub Streak" />
+  <img width=390 src="https://github-readme-streak-stats-ten-sandy-93.vercel.app/?user=Brahim-gz&theme=react&border_radius=10" alt="GitHub Streak" />
   <img width=370 src="https://github-readme-stats.vercel.app/api?username=Brahim-gz&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brahim-gz&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
